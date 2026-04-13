@@ -1,5 +1,5 @@
 Quiz App
-A simple, interactive quiz application built using HTML, CSS, and JavaScript. This app allows users to test their knowledge across various topics and provides instant feedback on their answer
+A simple, interactive quiz application built using HTML, CSS, and JavaScript. This app allows users to test their knowledge across various topics and provides instant feedback on their answer.
 
 #FEATURES
 
